@@ -1,0 +1,419 @@
+Console initialized.
+16.0 megs RAM used.
+Video mode 640x480x16 initialized.
+GL_VENDOR: ATI Technologies Inc.
+GL_RENDERER: ATI Radeon HD 3200 Graphics
+GL_VERSION: 3.3.10666 Compatibility Profile Context
+Console initialized.
+16.0 megs RAM used.
+Video mode 640x480x16 initialized.
+GL_VENDOR: ATI Technologies Inc.
+GL_RENDERER: ATI Radeon HD 3200 Graphics
+GL_VERSION: 3.3.10666 Compatibility Profile Context
+Multitexture extensions found.
+DirectSound initialized
+CDAudio_Init: MCI_OPEN failed (266)
+
+joystick not found -- no valid joysticks (a5)
+
+
+Client Version 2.40 (Build 4557)
+
+ÄÅÅÅÅÅÅ QuakeWorld Initialized ÅÅÅÅÅÅÇ
+couldn't exec autoexec.cfg
+Type connect <internet address> or use GameSpy to connect to a game. 
+Console initialized.
+16.0 megs RAM used.
+Video mode 640x480x16 initialized.
+GL_VENDOR: ATI Technologies Inc.
+GL_RENDERER: ATI Radeon HD 3200 Graphics
+GL_VERSION: 3.3.10666 Compatibility Profile Context
+Multitexture extensions found.
+DirectSound initialized
+CDAudio_Init: MCI_OPEN failed (266)
+
+joystick not found -- no valid joysticks (a5)
+
+
+Client Version 2.40 (Build 4557)
+
+ÄÅÅÅÅÅÅ QuakeWorld Initialized ÅÅÅÅÅÅÇ
+couldn't exec autoexec.cfg
+Type connect <internet address> or use GameSpy to connect to a game. 
+]uit
+Unknown command "uit"
+]quit
+Console initialized.
+16.0 megs RAM used.
+MWHEELDOWN is unbound, hit F4 to set.
+Video mode 640x480x16 initialized.
+GL_VENDOR: ATI Technologies Inc.
+GL_RENDERER: ATI Radeon HD 3200 Graphics
+GL_VERSION: 3.3.10666 Compatibility Profile Context
+Multitexture extensions found.
+DirectSound initialized
+CDAudio_Init: MCI_OPEN failed (266)
+
+joystick not found -- no valid joysticks (a5)
+
+
+Client Version 2.40 (Build 4557)
+
+ÄÅÅÅÅÅÅ QuakeWorld Initialized ÅÅÅÅÅÅÇ
+couldn't exec autoexec.cfg
+Type connect <internet address> or use GameSpy to connect to a game. 
+]connect 193.1.40.166
+Connecting to 193.1.40.166...
+193.1.40.166:27500: challenge
+193.1.40.166:27500: connection
+Connected.
+
+
+
+
+Place of Two Deaths
+Checking sounds...
+Checking models...
+meshing progs/player.mdl...
+meshing progs/eyes.mdl...
+meshing progs/h_player.mdl...
+meshing progs/gib1.mdl...
+meshing progs/gib2.mdl...
+meshing progs/gib3.mdl...
+meshing progs/v_axe.mdl...
+meshing progs/v_shot.mdl...
+meshing progs/v_nail.mdl...
+meshing progs/v_rock.mdl...
+meshing progs/v_shot2.mdl...
+meshing progs/v_nail2.mdl...
+meshing progs/v_rock2.mdl...
+meshing progs/bolt.mdl...
+meshing progs/bolt2.mdl...
+meshing progs/bolt3.mdl...
+meshing progs/lavaball.mdl...
+meshing progs/missile.mdl...
+meshing progs/grenade.mdl...
+meshing progs/spike.mdl...
+meshing progs/s_spike.mdl...
+meshing progs/backpack.mdl...
+meshing progs/zom_gib.mdl...
+meshing progs/v_light.mdl...
+meshing progs/flame2.mdl...
+meshing progs/flame.mdl...
+meshing progs/g_shot.mdl...
+meshing progs/armor.mdl...
+meshing progs/g_nail.mdl...
+meshing progs/g_rock.mdl...
+Console initialized.
+16.0 megs RAM used.
+Video mode 640x480x16 initialized.
+GL_VENDOR: ATI Technologies Inc.
+GL_RENDERER: ATI Radeon HD 3200 Graphics
+GL_VERSION: 3.3.10666 Compatibility Profile Context
+Multitexture extensions found.
+DirectSound initialized
+CDAudio_Init: MCI_OPEN failed (266)
+
+joystick not found -- no valid joysticks (a5)
+
+
+Client Version 2.40 (Build 4557)
+
+ÄÅÅÅÅÅÅ QuakeWorld Initialized ÅÅÅÅÅÅÇ
+couldn't exec autoexec.cfg
+Type connect <internet address> or use GameSpy to connect to a game. 
+]connect 193.1.40.166
+Connecting to 193.1.40.166...
+193.1.40.166:27500: challenge
+193.1.40.166:27500: connection
+Connected.
+
+
+
+
+Claustrophobopolis
+Checking sounds...
+Checking models...
+meshing progs/g_rock2.mdl...
+meshing progs/quaddama.mdl...
+Couldn't load skin skins/base.pcx
+Checking skins...
+Downloading skins/base.pcx...
+File not found.
+Couldn't load skin skins/base.pcx
+unnamed entered the game
+]join
+unnamed: join
+]start
+unnamed: start
+]/join
+Unknown command "join"
+]/begin
+Unknown command "begin"
+
+Changing map...
+reconnecting...
+
+
+
+
+The Abandoned Base
+Checking sounds...
+Checking models...
+meshing progs/g_nail2.mdl...
+meshing progs/g_light.mdl...
+meshing progs/invulner.mdl...
+meshing progs/invisibl.mdl...
+Checking skins...
+Downloading skins/base.pcx...
+File not found.
+Couldn't load skin skins/base.pcx
+unnamed entered the game
+]+mlook
+Ring of Shadows magic is fading
+Protection is almost burned out
+Console initialized.
+16.0 megs RAM used.
+MWHEELDOWN is unbound, hit F4 to set.
+Video mode 640x480x16 initialized.
+GL_VENDOR: ATI Technologies Inc.
+GL_RENDERER: ATI Radeon HD 3200 Graphics
+GL_VERSION: 3.3.10666 Compatibility Profile Context
+Multitexture extensions found.
+DirectSound initialized
+CDAudio_Init: MCI_OPEN failed (266)
+
+joystick not found -- no valid joysticks (a5)
+
+
+Client Version 2.40 (Build 4557)
+
+ÄÅÅÅÅÅÅ QuakeWorld Initialized ÅÅÅÅÅÅÇ
+couldn't exec autoexec.cfg
+Type connect <internet address> or use GameSpy to connect to a game. 
+Console initialized.
+16.0 megs RAM used.
+Video mode 640x480x16 initialized.
+GL_VENDOR: ATI Technologies Inc.
+GL_RENDERER: ATI Radeon HD 3200 Graphics
+GL_VERSION: 3.3.10666 Compatibility Profile Context
+Multitexture extensions found.
+DirectSound initialized
+CDAudio_Init: MCI_OPEN failed (266)
+
+joystick not found -- no valid joysticks (a5)
+
+
+Client Version 2.40 (Build 4558)
+
+ÄÅÅÅÅÅÅ QuakeWorld Initialized ÅÅÅÅÅÅÇ
+couldn't exec autoexec.cfg
+Type connect <internet address> or use GameSpy to connect to a game. 
+]connect 193.1.40.166
+Connecting to 193.1.40.166...
+193.1.40.166:27500: challenge
+193.1.40.166:27500: connection
+Connected.
+
+
+
+
+Place of Two Deaths
+Checking sounds...
+Checking models...
+Console initialized.
+16.0 megs RAM used.
+Video mode 640x480x16 initialized.
+GL_VENDOR: ATI Technologies Inc.
+GL_RENDERER: ATI Radeon HD 3200 Graphics
+GL_VERSION: 3.3.10666 Compatibility Profile Context
+Multitexture extensions found.
+DirectSound initialized
+CDAudio_Init: MCI_OPEN failed (266)
+
+joystick not found -- no valid joysticks (a5)
+
+
+Client Version 2.40 (Build 4558)
+
+ÄÅÅÅÅÅÅ QuakeWorld Initialized ÅÅÅÅÅÅÇ
+couldn't exec autoexec.cfg
+Type connect <internet address> or use GameSpy to connect to a game. 
+]connect 193.1.40.166
+Connecting to 193.1.40.166...
+193.1.40.166:27500: challenge
+193.1.40.166:27500: connection
+Connected.
+
+
+
+
+Place of Two Deaths
+Checking sounds...
+Checking models...
+Console initialized.
+16.0 megs RAM used.
+MWHEELDOWN is unbound, hit F4 to set.
+Video mode 640x480x16 initialized.
+GL_VENDOR: ATI Technologies Inc.
+GL_RENDERER: ATI Radeon HD 3200 Graphics
+GL_VERSION: 3.3.10666 Compatibility Profile Context
+Multitexture extensions found.
+DirectSound initialized
+CDAudio_Init: MCI_OPEN failed (266)
+
+joystick not found -- no valid joysticks (a5)
+
+
+Client Version 2.40 (Build 4558)
+
+ÄÅÅÅÅÅÅ QuakeWorld Initialized ÅÅÅÅÅÅÇ
+couldn't exec autoexec.cfg
+Type connect <internet address> or use GameSpy to connect to a game. 
+]connect 193.1.40.166
+Connecting to 193.1.40.166...
+193.1.40.166:27500: challenge
+193.1.40.166:27500: connection
+Connected.
+
+
+
+
+Place of Two Deaths
+Checking sounds...
+Checking models...
+Couldn't load skin skins/base.pcx
+Checking skins...
+Downloading skins/base.pcx...
+File not found.
+Couldn't load skin skins/base.pcx
+unnamed entered the game
+
+Changing map...
+reconnecting...
+
+
+
+
+Claustrophobopolis
+Checking sounds...
+Checking models...
+Checking skins...
+Downloading skins/base.pcx...
+File not found.
+Couldn't load skin skins/base.pcx
+unnamed entered the game
+]connect 193.1.40.1666
+Connecting to 193.1.40.1666...
+NET_SendPacket ERROR: 9
+unnamed dropped
+
+===========================
+Host_EndGame: Server disconnected
+===========================
+
+]quit
+Console initialized.
+16.0 megs RAM used.
+Video mode 640x480x16 initialized.
+GL_VENDOR: ATI Technologies Inc.
+GL_RENDERER: ATI Radeon HD 3200 Graphics
+GL_VERSION: 3.3.10666 Compatibility Profile Context
+Multitexture extensions found.
+DirectSound initialized
+CDAudio_Init: MCI_OPEN failed (266)
+
+joystick not found -- no valid joysticks (a5)
+
+
+Client Version 2.40 (Build 4558)
+
+ÄÅÅÅÅÅÅ QuakeWorld Initialized ÅÅÅÅÅÅÇ
+couldn't exec autoexec.cfg
+Type connect <internet address> or use GameSpy to connect to a game. 
+]alias go "connect 193.1.40.166"
+]go
+Connecting to 193.1.40.166...
+193.1.40.166:27500: challenge
+193.1.40.166:27500: connection
+Connected.
+
+
+
+
+Claustrophobopolis
+Checking sounds...
+Checking models...
+Couldn't load skin skins/base.pcx
+Checking skins...
+Downloading skins/base.pcx...
+File not found.
+Couldn't load skin skins/base.pcx
+unnamed entered the game
+Console initialized.
+16.0 megs RAM used.
+Video mode 640x480x16 initialized.
+GL_VENDOR: ATI Technologies Inc.
+GL_RENDERER: ATI Radeon HD 3200 Graphics
+GL_VERSION: 3.3.10666 Compatibility Profile Context
+Multitexture extensions found.
+DirectSound initialized
+CDAudio_Init: MCI_OPEN failed (266)
+
+joystick not found -- no valid joysticks (a5)
+
+
+Client Version 2.40 (Build 4558)
+
+ÄÅÅÅÅÅÅ QuakeWorld Initialized ÅÅÅÅÅÅÇ
+couldn't exec autoexec.cfg
+Type connect <internet address> or use GameSpy to connect to a game. 
+]go
+Unknown command "go"
+]quit
+Console initialized.
+16.0 megs RAM used.
+Video mode 640x480x16 initialized.
+GL_VENDOR: ATI Technologies Inc.
+GL_RENDERER: ATI Radeon HD 3200 Graphics
+GL_VERSION: 3.3.10666 Compatibility Profile Context
+Multitexture extensions found.
+DirectSound initialized
+CDAudio_Init: MCI_OPEN failed (266)
+
+joystick not found -- no valid joysticks (a5)
+
+
+Client Version 2.40 (Build 4558)
+
+ÄÅÅÅÅÅÅ QuakeWorld Initialized ÅÅÅÅÅÅÇ
+couldn't exec autoexec.cfg
+Type connect <internet address> or use GameSpy to connect to a game. 
+]connect 192.1.40.166
+Connecting to 192.1.40.166...
+Connecting to 192.1.40.166...
+Connecting to 192.1.40.166...
+]connect 193.1.40.155
+Connecting to 193.1.40.155...
+]connect 193.1.40.166
+Connecting to 193.1.40.166...
+193.1.40.166:27500: challenge
+193.1.40.166:27500: connection
+Connected.
+
+
+
+
+Claustrophobopolis
+Checking sounds...
+Checking models...
+Couldn't load skin skins/base.pcx
+Checking skins...
+Downloading skins/base.pcx...
+File not found.
+Couldn't load skin skins/base.pcx
+unnamed entered the game
+unnamed visits the Volcano God
+]/name ArchAngel
+unnamed changed name to ArchAngel
+]quit
